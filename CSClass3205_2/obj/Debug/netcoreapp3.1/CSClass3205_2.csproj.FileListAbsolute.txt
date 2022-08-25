@@ -1,0 +1,14 @@
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.exe
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.deps.json
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.runtimeconfig.json
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.runtimeconfig.dev.json
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.dll
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.pdb
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.csproj.AssemblyReference.cache
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.AssemblyInfoInputs.cache
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.AssemblyInfo.cs
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.csproj.CoreCompileInputs.cache
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.dll
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.pdb
+C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.genruntimeconfig.cache
