@@ -6,5 +6,7 @@ namespace CSClass3205_2
 {
     interface IBasic
     {
+        int TestInterfaceMethod();
+        int TestProperty { get; set; }
     }
 }

@@ -135,6 +135,13 @@ namespace CSClass3205_2
                     Console.WriteLine(item);
                 }
             }
+
+            //31-2. 인터페이스 생성
+            IBasic test = new TestClass();
+            test.TestProperty = 3;
+            test.TestInterfaceMethod();
+            //test.foobar(); //error!
+            (test as TestClass).foobar();
         }
 
         class Dummy : IDisposable
@@ -142,6 +149,24 @@ namespace CSClass3205_2
             public void Dispose()
             {
                 Console.WriteLine("Dispose() 메서드를 호출했습니다.");
+            }
+        }
+
+        class TestClass : IBasic
+        {
+            public int foobar()
+            {
+                return -1;
+            }
+
+            public int TestProperty {
+                get => throw new NotImplementedException();
+                set => throw new NotImplementedException();
+            }
+
+            public int TestInterfaceMethod()
+            {
+                throw new NotImplementedException();
             }
         }
     }
