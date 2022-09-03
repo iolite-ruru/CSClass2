@@ -12,3 +12,17 @@ C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp
 C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.dll
 C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.pdb
 C:\Users\KimSoYeon\source\repos\CSClass3205_2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.genruntimeconfig.cache
+D:\Project\CSClass2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.exe
+D:\Project\CSClass2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.deps.json
+D:\Project\CSClass2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.runtimeconfig.json
+D:\Project\CSClass2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.runtimeconfig.dev.json
+D:\Project\CSClass2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.dll
+D:\Project\CSClass2\CSClass3205_2\bin\Debug\netcoreapp3.1\CSClass3205_2.pdb
+D:\Project\CSClass2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.csproj.AssemblyReference.cache
+D:\Project\CSClass2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSClass2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.AssemblyInfoInputs.cache
+D:\Project\CSClass2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.AssemblyInfo.cs
+D:\Project\CSClass2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.csproj.CoreCompileInputs.cache
+D:\Project\CSClass2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.dll
+D:\Project\CSClass2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.pdb
+D:\Project\CSClass2\CSClass3205_2\obj\Debug\netcoreapp3.1\CSClass3205_2.genruntimeconfig.cache

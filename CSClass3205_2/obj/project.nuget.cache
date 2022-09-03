@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/dK8YmmcXeMgG1n6EJ+RslJFyUdWrgvuBsjeQuXd+2OnQwjfBjuGqsF5L/FXeTI8mwlIK4CeX1XvKlp6oMn+Rw==",
+  "dgSpecHash": "LQQOVckE/OQdl66iLHCcdVVmtQd2GiC5AR31vHOcerXn5mwksBhHo3OBVDgiwiyab9sEJjKWym6mCEmr4piLfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KimSoYeon\\source\\repos\\CSClass3205_2\\CSClass3205_2\\CSClass3205_2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Project\\CSClass2\\CSClass3205_2\\CSClass3205_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\김소연\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
