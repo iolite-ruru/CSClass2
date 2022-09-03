@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQQOVckE/OQdl66iLHCcdVVmtQd2GiC5AR31vHOcerXn5mwksBhHo3OBVDgiwiyab9sEJjKWym6mCEmr4piLfA==",
+  "dgSpecHash": "fiubJG8re6drL8XaycZ4CIrLJgVa+2lf7ZKCciYUOvLd+ONDuJXrrwUEpmhBPREYbVacUTvIvwsqaJRLR/vRDg==",
   "success": true,
   "projectFilePath": "D:\\Project\\CSClass2\\CSClass3205_2\\CSClass3205_2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\김소연\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
